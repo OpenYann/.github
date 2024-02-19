@@ -24,3 +24,7 @@ In principle, anyone can and may contribute to OpenYann. I wanted to start the p
 ### The code quality and spelling
 
 I develop now for about 1.5 years with Java and accordingly is very warscheinlich the code style of me still expandable anyone who has any suggestions can very gladly contact me :3
+
+### What's the story behind the name "OpenYann"?
+
+I just wanted to find a short, simple and easy to remember name for the project. So no big story or anything :>
